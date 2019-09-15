@@ -37,3 +37,7 @@ body {
 {
     padding: 1em;
 }
+
+#notes {
+    font-family: 'Courier New', Courier, monospace
+}
